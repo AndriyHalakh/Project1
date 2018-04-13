@@ -21,5 +21,15 @@ namespace WindowsFormsApp1
         {
             label1.Text = "kjhasdkfbhwekfuwebyfuyweiu";
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void edA_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
